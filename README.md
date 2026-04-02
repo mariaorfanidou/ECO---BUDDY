@@ -12,14 +12,6 @@ The app allows users to track daily eco-friendly actions, earn points, level up,
 🔁 Streak system (in advanced version)
 🛠️ Admin panel for user management
 
-📂 Project Structure
-EcoBuddy/
-│
-├── EcoBuddy.py        # Main version (user system + habits + admin)
-├── ecofriend.py       # Alternative version with streak system & challenges
-├── eco_buddy.db       # SQLite database
-└── README.md
-
 
 💡 How It Works
 Create a user profile
